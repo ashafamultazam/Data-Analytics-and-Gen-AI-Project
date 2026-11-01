@@ -8,7 +8,7 @@
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi&logoColor=black)
 ![Dataset](https://img.shields.io/badge/Dataset-Global%20Superstore-009999)
 ![Rows](https://img.shields.io/badge/Rows-51.290-blue)
-![Period](https://img.shields.io/badge/Periode-2011--2014-orange)
+![Period](https://img.shields.io/badge/Periode-2024-orange)
 ![Program](https://img.shields.io/badge/Program-MSIB%20Batch%207-red)
 
 </div>
@@ -19,13 +19,14 @@
 
 Repositori ini berisi proyek akhir (*capstone*) **Data Analytics & Gen AI** dari program **Magang dan Studi Independen Bersertifikat (MSIB) Batch 7** bersama **RevoU**.
 
-Tim kami menganalisis dataset **Global Superstore** dan memfokuskan analisis pada satu pertanyaan bisnis: **bagaimana performa penjualan kategori Furniture di pasar Amerika Serikat, dan di mana profitnya bocor?**
+Tim kami menganalisis dataset **Global Superstore** yang bisa diakses melalui Kaggle https://www.kaggle.com/datasets/apoorvaappz/global-super-store-dataset,  Dataset ini memfokuskan analisis pada satu pertanyaan bisnis: **bagaimana performa penjualan kategori Furniture di pasar Amerika Serikat, dan di mana profitnya bocor?**
 
 Hasilnya adalah dashboard interaktif **Power BI** yang mengubah ribuan baris transaksi menjadi gambaran yang mudah dibaca oleh pengambil keputusan.
 
 ![Dashboard Preview](assets/dashboard-preview.png)
 
 ---
+
 
 ## 🎯 Latar Belakang & Tujuan
 
@@ -181,19 +182,6 @@ Jika tidak memiliki Power BI, lihat hasil dashboard pada `CAPSTONE RevoU.pdf`.
 
 ---
 
-## 🤖 Bagian Gen AI
-
-> 🔧 **Bagian ini perlu Anda lengkapi.** Judul repositori menyebut Gen AI, tetapi file yang ada saat ini belum memuat artefak Gen AI (prompt, notebook, atau hasil keluaran model).
-
-Tambahkan di sini, misalnya:
-
-- Alat Gen AI yang digunakan (ChatGPT, Claude, Gemini, dan sebagainya)
-- Tahap yang dibantu Gen AI (pembersihan data, pembuatan insight, penulisan DAX, ringkasan laporan)
-- Contoh *prompt* yang efektif dan hasilnya
-- Refleksi: apa yang berhasil, apa yang harus diverifikasi manual
-
----
-
 ## ⚠️ Keterbatasan
 
 - Data berhenti di **2014**, sehingga kondisi pasar saat ini bisa berbeda.
@@ -209,8 +197,7 @@ Tambahkan di sini, misalnya:
 
 | Nama | Peran | Profil |
 |---|---|---|
-| Asha Fa Multazam | Data Analyst | [GitHub](https://github.com/ashafamultazam) |
-| *(isi nama anggota)* | *(isi peran)* | *(isi tautan)* |
+| Ashafa Multazam | Data Analyst | [GitHub](https://github.com/ashafamultazam) |
 
 ---
 

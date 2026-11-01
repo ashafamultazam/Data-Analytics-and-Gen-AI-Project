@@ -19,7 +19,7 @@
 
 Repositori ini berisi proyek akhir (*capstone*) **Data Analytics & Gen AI** dari program **Magang dan Studi Independen Bersertifikat (MSIB) Batch 7** bersama **RevoU**.
 
-Tim kami menganalisis dataset **Global Superstore** yang bisa diakses melalui Kaggle https://www.kaggle.com/datasets/apoorvaappz/global-super-store-dataset,  Dataset ini memfokuskan analisis pada satu pertanyaan bisnis: **bagaimana performa penjualan kategori Furniture di pasar Amerika Serikat, dan di mana profitnya bocor?**
+Tim kami menganalisis dataset **[Global Superstore](https://www.kaggle.com/datasets/apoorvaappz/global-super-store-dataset)** dan memfokuskan analisis pada satu pertanyaan bisnis: **bagaimana performa penjualan kategori Furniture di pasar Amerika Serikat, dan di mana profitnya bocor?**
 
 Hasilnya adalah dashboard interaktif **Power BI** yang mengubah ribuan baris transaksi menjadi gambaran yang mudah dibaca oleh pengambil keputusan.
 
